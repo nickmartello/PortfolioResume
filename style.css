@@ -1,11 +1,12 @@
 
 h1{
     position: absolute;
-    top: 25%;
+    top: 23%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: rgb(20, 23, 51);
     font-family: 'Special Elite', cursive;
+    text-shadow: 3px 3px white;
    
 }
 .heading-primary {
@@ -23,3 +24,30 @@ h1{
 .video-container {
     text-align: center;
 }
+.card.second {
+    border-radius: 90px 0px;
+    border: 0px;
+}
+p {
+    padding: 2% 2% 0 2%;
+    text-indent: 3em;
+}
+#project {
+    font-size:20px;
+    font-family:'Fredericka the Great';
+    background-color:  rgb(35, 38, 44);
+    color: white;
+
+}
+
+img{
+    width: 100%;
+    padding-top: 1%;
+    border-radius: 0px 90px;
+    opacity: 0.5;
+}
+.main {
+    position: relative;
+}
+
+
